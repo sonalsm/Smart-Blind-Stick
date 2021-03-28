@@ -1,0 +1,10 @@
+﻿Name,Quantity,Component
+"U1",1," Arduino Uno R3"
+"D1",1,"Red LED"
+"M1",1," Vibration Motor"
+"R1",1," Photoresistor"
+"R2, R3, R4",3,"1 kΩ Resistor"
+"PING1, PING3",2," Ultrasonic Distance Sensor"
+"PIEZO2",1," Piezo"
+"T1",1," NPN Transistor (BJT)"
+"BAT1",1," 9V Battery"
