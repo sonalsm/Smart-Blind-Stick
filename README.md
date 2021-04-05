@@ -9,32 +9,40 @@ Using this smart blind stick, a visually impaired person can walk without anyone
 
 ## REQUIREMENTS 
 ### VIRTUAL HARDWARE COMPONENTS 
-1. Arduino Uno -1![breadboard](https://user-images.githubusercontent.com/34569894/112820303-1c12df80-90a3-11eb-97ea-83b2ffa81b0f.jpg)
+1. Arduino Uno -1
 
 ![arduino](https://user-images.githubusercontent.com/34569894/112820259-14533b00-90a3-11eb-9e0b-cc5d9b49dd7a.jpg)
 
 2. Vibration Motor -1
+
 ![vibration motor](https://user-images.githubusercontent.com/34569894/112819380-297b9a00-90a2-11eb-8a34-2d27c073d3f1.jpg)
 
 3. Breadboard -Depends on integration Part
-![Uploading breadboard.jpg…]()
+
+![breadboard](https://user-images.githubusercontent.com/34569894/112820303-1c12df80-90a3-11eb-97ea-83b2ffa81b0f.jpg)
 
 4. Battery -1
+
 ![battery](https://user-images.githubusercontent.com/34569894/112819439-39937980-90a2-11eb-8da3-a7c2cd0b9ffe.jpg)
 
 5. Ultrasonic sensor -2
+
 ![hc-sr04-ultrasonic-sensor-module-500x500](https://user-images.githubusercontent.com/34569894/112819419-339d9880-90a2-11eb-9b83-37870e1f1546.jpg)
 
 6. Jumper Wires -Depends on integration Part 
+
 ![jumperwires](https://user-images.githubusercontent.com/34569894/112820324-203efd00-90a3-11eb-990d-554c662ac684.jpg)
 
 7. LDR Sensor -1
+
 ![ldr](https://user-images.githubusercontent.com/34569894/112819405-300a1180-90a2-11eb-9c59-e95ac9965482.jpg)
 
 8. LED Light -1
+
 ![led](https://user-images.githubusercontent.com/34569894/112819695-7b242480-90a2-11eb-933c-06e0a3887942.jpg)
 
 9. Buzzer -1
+
 ![buzzer](https://user-images.githubusercontent.com/34569894/112819346-21235f00-90a2-11eb-8e8b-b3c5342bf747.jpg)
 
 
