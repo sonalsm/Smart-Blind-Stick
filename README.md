@@ -46,11 +46,9 @@ Using this smart blind stick, a visually impaired person can walk without anyone
 ![buzzer](https://user-images.githubusercontent.com/34569894/112819346-21235f00-90a2-11eb-8e8b-b3c5342bf747.jpg)
 
 
-### SOFTWARE WE NEED TO INTEGRATE PROJECT ON
+### SIMULATION TOOL
 TINKERCAD
 ![tinkercad gui](https://user-images.githubusercontent.com/34569894/112821350-31d4d480-90a4-11eb-8b59-620a962e96e0.JPG)
 
-## CIRCUIT DIAGRAM
-![Smart Blind Stick](https://user-images.githubusercontent.com/34569894/112817604-4020f180-90a0-11eb-853f-295f28e11f45.png)
 
 ### We can DEVELOP the same project for BLIND SICK using original Hardware Components. (Just we require an IDE called ARDUINO IDE and connection wire for the Arduino and IDE connection. It will have same hardware components and code). 
