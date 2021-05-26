@@ -51,4 +51,4 @@ TINKERCAD
 ![tinkercad gui](https://user-images.githubusercontent.com/34569894/112821350-31d4d480-90a4-11eb-8b59-620a962e96e0.JPG)
 
 
-### We can DEVELOP the same project for BLIND SICK using original Hardware Components. (Just we require an IDE called ARDUINO IDE and connection wire for the Arduino and IDE connection. It will have same hardware components and code). 
+### We can DEVELOP the same project for BLIND SICK using original Hardware Components. 
